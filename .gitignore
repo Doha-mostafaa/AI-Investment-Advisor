@@ -1,15 +1,28 @@
+# Environment & secrets
 .env
 .env.*
 !.env.example
-__pycache__/
-*.py[cod]
+
+# Python
 .venv/
-venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Logs & data
+logs/
 *.log
+data/raw/
 *.db
 *.sqlite
 pgdata/
+
+# Editors / OS
 .vscode/
 .idea/
+.qodo/
 .DS_Store
 Thumbs.db
+
+# Demo
+demo/backup_video.mp4
