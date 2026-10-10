@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Environment & secrets
 .env
 .env.*
@@ -26,3 +27,9 @@ Thumbs.db
 
 # Demo
 demo/backup_video.mp4
+=======
+.venv/
+.env
+__pycache__/
+*.pyc
+>>>>>>> 469c16d (Clean initial commit)

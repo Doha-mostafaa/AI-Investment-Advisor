@@ -1,6 +1,10 @@
 services:
   postgres:
+<<<<<<< HEAD
     image: postgres:16
+=======
+    image: pgvector/pgvector:pg16
+>>>>>>> 469c16d (Clean initial commit)
     environment:
       POSTGRES_DB: ${POSTGRES_DB}
       POSTGRES_USER: ${POSTGRES_USER}
