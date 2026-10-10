@@ -1,0 +1,19 @@
+{
+  "query_id": "57312195-2442-4499-b331-8b61adfd6604",
+  "timestamp": "2026-10-10T20:04:02.460619+00:00",
+  "query": "\u0627\u0632\u0627\u064a \u0627\u0634\u062a\u0631\u064a \u0633\u0647\u0645",
+  "ticker": "MCD",
+  "user_profile": {
+    "name": "demo_user",
+    "experience": "beginner",
+    "risk_tolerance": "medium",
+    "budget": "medium"
+  },
+  "response_length": 509,
+  "response_preview": "{\n  \"error\": \"Client error '400 Bad Request' for url 'https://api.groq.com/openai/v1/chat/completions'\\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400\"\n}\n\n---\n\u26a0\ufe0f **Disclaimer**: This is AI-generated research for educational purposes only. It is NOT financial advice. Always consult a qualified financial advisor before making investment decisions. Past performance does not guarantee future results. Investing involves risk, including the potential loss of p",
+  "metadata": {
+    "latency_ms": 41091.388463974,
+    "compliance_passed": true,
+    "banned_phrases": []
+  }
+}
