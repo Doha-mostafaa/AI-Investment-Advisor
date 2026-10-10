@@ -1,0 +1,12 @@
+yfinance==0.2.40
+pandas==2.2.2
+psycopg2-binary==2.9.9
+SQLAlchemy==2.0.31
+redis==5.0.7
+APScheduler==3.10.4
+requests==2.32.3
+feedparser==6.0.11
+python-dotenv==1.0.1
+beautifulsoup4==4.12.3
+pydantic==2.8.2
+loguru==0.7.2
